@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I’m passionate about securing systems, networks,
 ---
 
 ### 📊 GitHub Stats:
-![Yous's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousifAlmaweri &show_icons=true&theme=radical)
+![Yous's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousifAlmaweri&show_icons=true&theme=radical)
 
 ---
 
